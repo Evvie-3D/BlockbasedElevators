@@ -1,0 +1,4 @@
+ElevatorCenterBlockMaterial: lapis_block
+ElevatorRimMaterial: redstone_block
+DisplayFloorOnTeleport: true
+DisplayDuration: 2
