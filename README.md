@@ -15,4 +15,6 @@ The blocks of a floor need to be placed in the following configuration, <br>
 &nbsp; X <br>
 XCX<br>
 &nbsp; X <br>
-where C and X are the materials set in the configuration file.
+where C and X are the materials set in the configuration file.<br>
+The center blocks of each floor need to form a sraight line along the y-axis to be considered 
+an elevator.
